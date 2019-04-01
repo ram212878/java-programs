@@ -4,7 +4,7 @@
 		Display the number of guests, price per guest, and total price. 
 		Also display a message that indicates true or false depending on whether the 
 		job is classified as a large event—an event with 50 or more guests. 
-		Save the file as NilaaEventPrice.java.
+		Save the file as NilaaEventPrice.java.  
 *@author Ram Babu Kumar Rai
 */
 
