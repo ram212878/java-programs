@@ -1,5 +1,5 @@
 /** Q.13 Write a Java program to perform the Bitwise operation(AND, OR and XOR) of the given two integers
-*@author Ram Babu Kumar Rai
+*@author Ram Babu Kumar Rai 
 */
 import java.util.*;
 public class PerformBitwiseOperation{
