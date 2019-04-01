@@ -1,3 +1,9 @@
+/** This is a knapsack problem to find the items in the knapsack
+It is Using Dyanamic Programming
+*@author Ram Babu Kumar Rai
+*/
+
+
 import java.util.*;
 public class CPLKnapsack {       
     static int max(int a, int b) { 
